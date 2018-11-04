@@ -1,0 +1,46 @@
+﻿body {
+	background-color: #3CC969;
+}
+
+
+h3 {
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 50px;
+	color: #08CEAD;
+}
+
+.container {
+	margin-top: 5px;
+	margin-bottom: 10px;
+	margin-left: 200px;
+}
+
+.btn-green {
+	width: 150px;
+	height: 45px;
+	background-color: #3CC969;
+	.glyphicon
+
+{
+	color: #0C7F31;
+}
+
+}
+
+.btn-pomegranate {
+	width: 150px;
+	height: 45px;
+	background-color: #D14233;
+	color: white;
+	&:hover
+
+{
+	background-color: #EA6153;
+	color: white;
+}
+
+.glyphicon {
+	color: white;
+}
+}
